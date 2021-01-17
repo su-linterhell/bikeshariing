@@ -26,7 +26,7 @@ Results for each metric listed above include:
   * Checkout times (meaning trip duration) ranged from less than an hour to 23 hours. We saw peak trip duration at about 5 hours. 
 
 2. Checkout times by gender
-  * Males had the highest proportion of rented bikes. We saw significantly less bike usage between females and unknown. 
+   * Males had the highest proportion of rented bikes. We saw significantly less bike usage between females and unknown. 
 
 3. Trips by weekday per hour
   * Trends differed based on whether it was a weekday or weekend
